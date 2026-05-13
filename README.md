@@ -2,7 +2,7 @@
 
 # voidvein
 
-把想法写成代码，把代码打磨成可以长期运行的作品。
+把想法写成代码，把代码打磨成可以长期运行的作品
 
 [![GitHub followers](https://img.shields.io/github/followers/voidvein?style=flat-square&label=Followers)](https://github.com/voidvein?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=voidvein&style=flat-square&color=0e75b6)](https://github.com/voidvein)
@@ -19,30 +19,23 @@
 
 ## GitHub 修仙传
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/voidvein">
-    <img src="https://github-immortality.vercel.app/api?username=voidvein" alt="voidvein 的 GitHub 修仙统计" />
+    <img width="720" src="https://github-immortality.vercel.app/api?username=voidvein" alt="voidvein 的 GitHub 修仙统计" />
   </a>
-</div>
+</p>
 
 ## 3D 贡献图
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="voidvein 的 3D GitHub 贡献图" />
-</div>
+<p align="center">
+  <img width="820" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="voidvein 的 3D GitHub 贡献图" />
+</p>
 
 ## 近期方向
 
 - 整理个人项目，让零散想法逐步变成可维护的作品。
 - 积累算法、工程实践和工具链相关的学习记录。
 - 尝试用自动化和 AI 工具提升开发效率。
-
-## GitHub 状态
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=voidvein&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="voidvein 的 GitHub 数据" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidvein&layout=compact&theme=transparent&hide_border=true" alt="voidvein 的常用语言" />
-</div>
 
 ## 交流
 
