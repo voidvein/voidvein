@@ -25,6 +25,12 @@
   </a>
 </div>
 
+## 3D 贡献图
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="voidvein 的 3D GitHub 贡献图" />
+</div>
+
 ## 近期方向
 
 - 整理个人项目，让零散想法逐步变成可维护的作品。
