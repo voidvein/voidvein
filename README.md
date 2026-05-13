@@ -28,7 +28,7 @@
 ## 3D 贡献图
 
 <p align="center">
-  <img width="820" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="voidvein 的 3D GitHub 贡献图" />
+  <img width="680" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="voidvein 的 3D GitHub 贡献图" />
 </p>
 
 ## 近期方向
